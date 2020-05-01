@@ -1,0 +1,2 @@
+The Lending Club dataset was obtained from Kaggle (https://www.kaggle.com/wordsforthewise/lending-club), and
+contains over 2.2 million observations with +150 features of accepted loans between 2007-2015. 
